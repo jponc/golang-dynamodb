@@ -1,0 +1,6 @@
+# package directories
+vendor
+bin
+
+# Serverless directories
+.serverless
